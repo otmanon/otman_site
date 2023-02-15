@@ -5,6 +5,16 @@
     <link>https://otman.ca/categories/</link>
     <description>Recent content in Categories on Otman Benchekroun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://otman.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate><atom:link href="https://otman.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>propaganda</title>
+      <link>https://otman.ca/categories/propaganda/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://otman.ca/categories/propaganda/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
