@@ -1,8 +1,8 @@
 ## Basic Configuration
 
 baseurl = "https://otman.ca"
-builddrafts = false
-canonifyurls = false
+builddrafts = true
+canonifyurls = true
 languageCode = "en-US"
 
 contentdir = "content"
@@ -29,8 +29,8 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Otman Benchekroun"
+keywords = "research, computer graphics, animation, geometry"
 
 ## Social Accounts
 [params.social]
@@ -74,25 +74,26 @@ email = "otman.benchekroun@mail.utoronto.ca"
 ## Extras
 [params.extra]
 copyright = ""
-poweredby = true
-highlightjs = true
-socialmarkup = true
-toc = true
-displayrssicon = true
+poweredby = false
+highlightjs = false
+socialmarkup = false
+toc = false
+displayrssicon = false
+
 
 ## Main Menu
-[[menu.main]]
-    name = "posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
 [[menu.main]]
     name = "about"
     identifier = "about"
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
+    name = "publications"
+    identifier = "publications"
     weight = 300
-    url = "/coderag/"
+    url = "/publications/"
+[[menu.main]]
+    name = "posts"
+    weight = 5000
+    identifier = "posts"
+    url = "/posts/"
