@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://otman.ca/tags/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://otman.ca/categories/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://otman.ca/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
     <loc>https://otman.ca/categories/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://otman.ca/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://otman.ca/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
     <loc>https://otman.ca/tags/first-post/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url><url>
     <loc>https://otman.ca/posts/first_post/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url><url>
-    <loc>https://otman.ca/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url><url>
     <loc>https://otman.ca/posts/</loc>
@@ -20,7 +32,6 @@
     <loc>https://otman.ca/categories/propaganda/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/tags/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <loc>https://otman.ca/publications/</loc>
   </url>
 </urlset>
