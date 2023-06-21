@@ -13,7 +13,8 @@
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>https://otman.ca/about/</guid>
-      <description>I&amp;rsquo;m a first year PhD student in Computer Graphics at the University of Toronto, advised by Prof. Eitan Grinspun.</description>
+      <description>I&amp;rsquo;m a first year PhD student in Computer Graphics at the University of Toronto, advised by Prof. Eitan Grinspun.
+I love visual storytelling, and a huge component of that is the world-building required that breathes life into these stories. My research lies at the intersection of physics-based animation and control. I&amp;rsquo;m particularly interested in not only investigating good computational models for natural phenomena, but also</description>
     </item>
     
     <item>
@@ -31,7 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://otman.ca/publications/</guid>
-      <description>Adaptive Merging for Rigid Body Simulation</description>
+      <description>Fast Complementary Dynamics via Skinning Eigenmodes ACM Transactions on Graphics (SIGGRAPH), 2023 Otman Benchekroun, Jiayi Eris Zhang , Siddhartha Chaudhuri, Eitan Grinspun, Yi Zhou, Alec Jacobson Adaptive Merging for Rigid Body Simulation ACM Transactions on Graphics (SIGGRAPH), 2020 Eulalie Coevoet, Otman Benchekroun, Paul G. Kry,</description>
     </item>
     
   </channel>
