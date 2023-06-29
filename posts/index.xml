@@ -8,21 +8,12 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate><atom:link href="https://otman.ca/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adaptive Merging for Rigid Body Simulation</title>
-      <link>https://otman.ca/posts/adaptive_merging/</link>
+      <title>RigRats : Exporting Blender Animation to a Huge .JSON File</title>
+      <link>https://otman.ca/posts/rigrats/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>https://otman.ca/posts/adaptive_merging/</guid>
-      <description>Adaptive Merging for Rigid Body Simulation ACM Transactions on Graphics (SIGGRAPH), 2020 Eulalie Coevoet, Otman Benchekroun, Paul G. Kry, We reduce computation time in rigid body simulations by merging collections of bodies when they share a common spatial velocity. Merging relies on monitoring the state of contacts, and a metric that compares the relative linear and angular motion of bodies based on their sizes. Unmerging relies on an inexpensive single iteration projected Gauss-Seidel sweep over contacts between merged bodies, which lets us update internal contact forces over time, and use the same metrics as merging to identify when bodies should unmerge.</description>
-    </item>
-    
-    <item>
-      <title>Fast Complementary Dynamics via Skinning Eigenmodes</title>
-      <link>https://otman.ca/posts/fast_cd/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://otman.ca/posts/fast_cd/</guid>
-      <description>ACM Transactions on Graphics (SIGGRAPH), 2023 Otman Benchekroun, Jiayi Eris Zhang , Siddhartha Chaudhuri, Eitan Grinspun, Yi Zhou, Alec Jacobson We propose a reduced-space elasto-dynamic solver that is well suited for augmenting rigged character animations with secondary motion. At the core of our method is a novel deformation subspace based on Linear Blend Skinning that overcomes many of the shortcomings prior subspace methods face. Our skinning subspace is parameterized entirely by a set of scalar weights, which we can obtain through a small, material-aware and rig-sensitive generalized eigenvalue problem.</description>
+      <guid>https://otman.ca/posts/rigrats/</guid>
+      <description></description>
     </item>
     
   </channel>
