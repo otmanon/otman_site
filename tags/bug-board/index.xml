@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug Board on Otman Benchekroun</title>
+    <link>https://otman.ca/tags/bug-board/</link>
+    <description>Recent content in Bug Board on Otman Benchekroun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate><atom:link href="https://otman.ca/tags/bug-board/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bug Board</title>
+      <link>https://otman.ca/bug_board/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://otman.ca/bug_board/</guid>
+      <description>A collection of images I saved of temporary results I&amp;rsquo;ve accumulated while working on various research projects. Not all of them contain bugs!
+There should have been a video here but your browser does not seem to support it. </description>
+    </item>
+    
+  </channel>
+</rss>
