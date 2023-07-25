@@ -12,7 +12,7 @@ publishdir = "public"
 author = "Otman Benchekroun"
 title = "Otman Benchekroun"
 
-theme = "hugo-goa"
+theme = ["hugo-goa", "hugo-shortcode-gallery"]
 
 ## Hugo Built-in Features
 disqusShortname = "" #""https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
@@ -22,8 +22,8 @@ enableRobotsTXT = false
 ## Site Settings
 [params]
 author = "Otman Benchekroun"
-intro = "Graduate Student in Computer Graphics"
-description = ""
+intro = ""
+description =" Graduate Student in Computer Graphics"
 authorimage = "profile2.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -80,13 +80,12 @@ socialmarkup = false
 toc = false
 displayrssicon = false
 
-
 ## Main Menu
 [[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
+    name = "home"
+    identifier = "home"
+    weight = 1
+    url = "/"
 [[menu.main]]
     name = "publications"
     identifier = "publications"
@@ -97,3 +96,30 @@ displayrssicon = false
     weight = 5000
     identifier = "posts"
     url = "/posts/"
+[[menu.main]]
+    name = "bug board"
+    weight = 10000
+    identifier = "bug_board"
+    url = "/bug_board/"
+
+
+[[menu.header]]
+    name = "home"
+    identifier = "home"
+    weight = 100
+    url = "//"
+[[menu.header]]
+    name = "publications"
+    identifier = "publications"
+    weight = 300
+    url = "/publications/"
+[[menu.header]]
+    name = "posts"
+    weight = 5000
+    identifier = "posts"
+    url = "/posts/"
+[[menu.header]]
+    name = "bug board"
+    weight = 10000
+    identifier = "bug_board"
+    url = "/bug_board/"

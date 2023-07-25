@@ -1,0 +1,10 @@
+
+<!--{{ if .IsNamedParams }}-->
+<!--<img src="{{ .Get "src" }}" alt="">-->
+<!--{{ else }}-->
+<!--<img src="{{ .Get 0 }}" alt="">-->
+<!--{{ end }}-->
+
+
+
+<img src="{{ .Site.BaseURL }}/{{ .Get "src" }}" type="{{ .Get "type" }}"  width="{{ .Get "width" }}" height="{{ .Get "height"}}" >

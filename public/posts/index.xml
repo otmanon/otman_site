@@ -8,12 +8,12 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate><atom:link href="https://otman.ca/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>https://otman.ca/posts/first_post/</link>
+      <title>RigRats : Exporting Blender Animation to a Huge .JSON File</title>
+      <link>https://otman.ca/posts/rigrats/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>https://otman.ca/posts/first_post/</guid>
-      <description>Hi everyone this is my first post</description>
+      <guid>https://otman.ca/posts/rigrats/</guid>
+      <description>For many of my projects, I require designing a rig animation in Blender. To export the animation, I&amp;rsquo;ve made use of a homemade Blender add on called RigRats</description>
     </item>
     
   </channel>

@@ -9,12 +9,12 @@ tags = []
 title = "Publications"
 showpagemeta = false
 +++
-####  [Fast Complementary Dynamics via Skinning Eigenmodes](publications/fast_cd/)
+####  [Fast Complementary Dynamics via Skinning Eigenmodes](https://www.dgp.toronto.edu/projects/fast_complementary_dynamics_site/)
 ###### ACM Transactions on Graphics (SIGGRAPH North America), 2023
  **Otman Benchekroun**, [Jiayi Eris Zhang](https://eriszhang.github.io/) , [Siddhartha Chaudhuri](https://www.cse.iitb.ac.in/~sidch/), [Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/), [Yi Zhou](https://zhouyisjtu.github.io/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)
 {{< figure src=/publications/fast_cd/aquarium.jpg width=400 width=400 >}}
 
-#### [Adaptive Merging for Rigid Body Simulation](publications/adaptive_merging/)
+#### [Adaptive Merging for Rigid Body Simulation](https://eulaliecoevoet.github.io/AdaptiveMerging/)
 ###### ACM Transactions on Graphics (SIGGRAPH North America), 2020
 [Eulalie Coevoet](https://eulaliecoevoet.com/), **Otman Benchekroun**,  [Paul G. Kry](https://www.cs.mcgill.ca/~kry/),
 

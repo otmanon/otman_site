@@ -1,6 +1,11 @@
+
 {{ partial "header.html" . }}
 
+{{ partial "menu.html" . }}
+
 {{ partial "content.html" . }}
+
+
 
 {{ if ne .Params.showcomments false }}
 
@@ -8,7 +13,6 @@
 
 {{ end }}
 
-<!--{{ partial "menu.html" . }}-->
 
 {{ partial "footer.html" . }}
 
