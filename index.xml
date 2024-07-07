@@ -6,34 +6,28 @@
     <description>Recent content in About on Otman Benchekroun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://otman.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate>
+    <atom:link href="https://otman.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bug Board</title>
       <link>https://otman.ca/bug_board/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
       <guid>https://otman.ca/bug_board/</guid>
-      <description>A collection of images I saved of temporary results I&amp;rsquo;ve accumulated while working on various research projects. Not all of them contain bugs!
-There should have been a video here but your browser does not seem to support it. </description>
+      <description>A collection of images I saved of temporary results I&amp;rsquo;ve accumulated while working on various research projects. Not all of them contain bugs!&#xA;There should have been a video here but your browser does not seem to support it. </description>
     </item>
-    
     <item>
       <title>RigRats : Exporting Blender Animation to a Huge .JSON File</title>
       <link>https://otman.ca/posts/rigrats/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
       <guid>https://otman.ca/posts/rigrats/</guid>
       <description>For many of my projects, I require designing a rig animation in Blender. To export the animation, I&amp;rsquo;ve made use of a homemade Blender add on called RigRats</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://otman.ca/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://otman.ca/publications/</guid>
       <description>Subspace Mixed Finite Elements for Real-Time Heterogeneous Elastodynamics Otman Benchekroun* , Ty Trusty* , Eitan Grinspun, Danny M. Kaufman, David I.W. Levin Fast Complementary Dynamics via Skinning Eigenmodes ACM Transactions on Graphics (SIGGRAPH North America), 2023 Otman Benchekroun, Jiayi Eris Zhang , Siddhartha Chaudhuri, Eitan Grinspun, Yi Zhou, Alec Jacobson Adaptive Merging for Rigid Body Simulation ACM Transactions on Graphics (SIGGRAPH North America), 2020 Eulalie Coevoet, Otman Benchekroun, Paul G.</description>
     </item>
-    
   </channel>
 </rss>

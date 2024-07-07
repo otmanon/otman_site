@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about on Otman Benchekroun</title>
+    <title>About on Otman Benchekroun</title>
     <link>https://otman.ca/tags/about/</link>
-    <description>Recent content in about on Otman Benchekroun</description>
+    <description>Recent content in About on Otman Benchekroun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://otman.ca/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://otman.ca/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://otman.ca/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
       <guid>https://otman.ca/</guid>
-      <description>Hello! I&amp;rsquo;m a third year graduate student in Computer Graphics at the University of Toronto, supervised by Prof. Eitan Grinspun.
-My interests lie at the intersection of physics based animation and geometry processing. Specifically I like how the two can often intermingle in just the right way to provide rich features useful for shape analysis, motion discovery, simulation acceleration, and control over animated characters.
-I recently received my Master&amp;rsquo;s degree at the University of Toronto, where I was co-supervised by Profs Eitan Grinspun and Alec Jacobson.</description>
+      <description>Hello! I&amp;rsquo;m a third year graduate student in Computer Graphics at the University of Toronto, supervised by Prof. Eitan Grinspun. I&amp;rsquo;m interested in physics-based virtual environments, and I work on the challenges that come from our desire to interact with and control them.&#xA;Our world is governed by the laws of physics, and humans are great at internalizing them, and leveraging this intuition to create art and technology. Unfortunately, these laws can be super expensive to model computationally.</description>
     </item>
-    
   </channel>
 </rss>
