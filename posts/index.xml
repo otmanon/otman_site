@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Otman Benchekroun</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://otman.ca/posts/</link>
     <description>Recent content in Posts on Otman Benchekroun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 02 Aug 2024 13:50:39 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://otman.ca/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Physics Based Simulation?</title>
-      <link>http://localhost:1313/posts/in_defense_of_simulation/</link>
+      <link>https://otman.ca/posts/in_defense_of_simulation/</link>
       <pubDate>Fri, 02 Aug 2024 13:50:39 -0400</pubDate>
-      <guid>http://localhost:1313/posts/in_defense_of_simulation/</guid>
+      <guid>https://otman.ca/posts/in_defense_of_simulation/</guid>
       <description>Our real world is infinitely complex, and one of the key ways in which we know things is by dilligently observing it. This is the world of data. Unfortunately, for many of life’s fun questions, this data is inaccessible, hidden behind microscopic random perturbations that we struggle to make sense of.&#xA;In the absence of observation we can turn to another tool humans use to learn about the world: reasoning. This is the world of simulation.</description>
     </item>
     <item>
       <title>RigRats : Exporting Blender Animation to a Huge .JSON File</title>
-      <link>http://localhost:1313/posts/rigrats/</link>
+      <link>https://otman.ca/posts/rigrats/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/rigrats/</guid>
+      <guid>https://otman.ca/posts/rigrats/</guid>
       <description>For many of my projects, I require designing a rig animation in Blender. To export the animation, I&amp;rsquo;ve made use of a homemade Blender add on called RigRats</description>
     </item>
   </channel>
