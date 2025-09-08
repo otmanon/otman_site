@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://otman.ca/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-02T13:50:39-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/posts/in_defense_of_simulation/</loc>
+    <loc>http://localhost:1313/posts/in_defense_of_simulation/</loc>
     <lastmod>2024-08-02T13:50:39-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/tags/about/</loc>
+    <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/categories/about/</loc>
+    <loc>http://localhost:1313/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/tags/bug-board/</loc>
+    <loc>http://localhost:1313/tags/bug-board/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/bug_board/</loc>
+    <loc>http://localhost:1313/bug_board/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/tags/rigrats/</loc>
+    <loc>http://localhost:1313/tags/rigrats/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/posts/rigrats/</loc>
+    <loc>http://localhost:1313/posts/rigrats/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url><url>
-    <loc>https://otman.ca/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url>
 </urlset>
